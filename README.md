@@ -4,7 +4,7 @@ It is a Python-Django Framework web application where the application has differ
 
 ## About the application
 
-Health tourism is a fast growing multibillion-dollar industry around the world and it entails trade in services of two major industries i.e. medicine and tourism. The details about the treatment and the travelling places will be described in the website along with packages. The user can register with the permission of the admin, who manages all packages, offers, registration, etc. The modules of the project are admin, user, registered user and travel module.
+Health tourism is a fast growing multibillion-dollar industry around the world and it entails trade in services of two major industries i.e, medicine and tourism. The details about the package such as description, price etc is visible on the site. The admin is the person who can manage all of the packages as well as the user. Once the user registers the admin need to give the permission then only the user will be able to login and see the complete description as well as book the packages.The modules of the project are admin, user and travel module.
 
 ## Modules
 
