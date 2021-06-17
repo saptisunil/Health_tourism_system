@@ -14,6 +14,7 @@ Health tourism is a fast growing multibillion-dollar industry around the world a
 
 Database : Here we are using MySQL database. Create a table in MySQL database with the name health or you can create a table in MySQL database and in the folder health open settings.py in your editor and scroll down to databases 
 
+```
 DATABASES = 
 { 'default': 
    { 'ENGINE': 'django.db.backends.mysql', 
@@ -23,6 +24,7 @@ DATABASES =
      'HOST': 'localhost', 
      'PORT': '' } 
  }
+ ```
 
 Now in the terminal, run the following commands:
 
