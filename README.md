@@ -1,4 +1,8 @@
-# Health Tourism system
+# Health Tourism Web Application 
+
+It is a Python-Django Framework web application where the application has different modules such as Admin app, User app. The Backend of the application is connected to MySQL database.
+
+## Health Tourism system
 
 Health tourism is a fast growing multibillion-dollar industry around the world and it entails trade in services of two major industries i.e. medicine and tourism. The details about the treatment and the travelling places will be described in the website along with packages. The user can register with the permission of the admin, who manages all packages, offers, registration, etc. The modules of the project are admin, user, registered user and travel module.
 
