@@ -27,7 +27,6 @@ DATABASES =
 Now in the terminal, run the following commands:
 
 ```
-
 python manage.py makemigrations
 
 python manage.py migrate
